@@ -1,0 +1,128 @@
+{
+    "academicProjects": [
+      {
+        "id": "demand-forecasting",
+        "title": "Multi-product Demand Forecasting in Dynamic Environments",
+        "description": "Master's thesis implementing comprehensive forecasting approaches including StemGNN for correlation analysis and Change Point Detection for demand shifts",
+        "technologies": ["Python", "StemGNN", "XGBoost", "Time Series Analysis", "Change Point Detection"],
+        "impact": "Improved forecast accuracy by 35% in dynamic environments",
+        "status": "completed",
+        "period": "Aug 2023 - Dec 2024",
+        "type": "Master's Thesis"
+      },
+      {
+        "id": "concept-drift",
+        "title": "Formal Employment Classification with Concept Drift",
+        "description": "Analyzed pre/post-pandemic employment trends using DANE GEIH survey data and Chi-Square tests to identify distributional changes",
+        "technologies": ["Python", "Scikit-learn", "Statistical Testing", "DANE API", "Concept Drift"],
+        "impact": "Identified significant distributional changes with 92% accuracy",
+        "status": "completed",
+        "period": "Aug 2023 - Dec 2023",
+        "type": "Undergraduate Thesis"
+      },
+      {
+        "id": "bayesian-news",
+        "title": "GA-BNN Model for News Classification",
+        "description": "Developed Bayesian Neural Network optimized with Genetic Algorithm for hyperparameter tuning",
+        "technologies": ["Python", "PyTorch", "Genetic Algorithms", "Bayesian Networks", "Kaggle"],
+        "impact": "Achieved 94% accuracy with uncertainty quantification",
+        "status": "completed",
+        "period": "Aug 2023 - Dec 2023",
+        "type": "Research Project"
+      }
+    ],
+    "professionalProjects": [
+      {
+        "id": "hogar-salud-automation",
+        "title": "Business Process Automation - Hogar Salud",
+        "description": "Automated critical business processes using Python ETL workflows and predictive ML models",
+        "technologies": ["Python", "ETL", "Machine Learning", "Data Pipelines"],
+        "impact": "40% improvement in operational efficiency",
+        "status": "ongoing",
+        "period": "Aug 2024 - Present",
+        "type": "Professional"
+      },
+      {
+        "id": "consware-kpi",
+        "title": "KPI Dashboards - Consware SAS",
+        "description": "Built comprehensive KPI reports and interactive dashboards using Power BI with advanced DAX functions",
+        "technologies": ["Power BI", "DAX", "Data Quality", "SQL"],
+        "impact": "Enhanced client insights and operational efficiency",
+        "status": "completed",
+        "period": "Dec 2023 - Jun 2024",
+        "type": "Professional"
+      },
+      {
+        "id": "acesco-manufacturing",
+        "title": "Manufacturing Analytics - Acesco",
+        "description": "Developed real-time dashboards and ML-based resource consumption standards",
+        "technologies": ["Power BI", "Machine Learning", "Manufacturing Analytics"],
+        "impact": "Optimized manufacturing operations and cost reduction",
+        "status": "completed",
+        "period": "Jun 2023 - Dec 2023",
+        "type": "Professional"
+      }
+    ],
+    "futureProjects": [
+      {
+        "id": "crypto-trading-bot",
+        "title": "Real-Time Crypto Trading Bot with MLOps",
+        "description": "Automated trading system with ML predictions and comprehensive MLOps pipeline",
+        "technologies": ["Python", "LSTM", "MLflow", "Docker", "AWS"],
+        "impact": "Target: 15-30% annual ROI vs traditional markets",
+        "status": "planned",
+        "period": "Q1 2025",
+        "type": "Data Science Portfolio"
+      },
+      {
+        "id": "multimodal-recommender",
+        "title": "Multi-Modal Recommendation System",
+        "description": "E-commerce recommender combining text, images, and behavior using CLIP and BERT",
+        "technologies": ["CLIP", "BERT", "Computer Vision", "Neural Collaborative Filtering"],
+        "impact": "Target: 20-35% increase in conversion rate",
+        "status": "planned",
+        "period": "Q1 2025",
+        "type": "Data Science Portfolio"
+      },
+      {
+        "id": "fraud-detection-mlops",
+        "title": "MLOps Platform for Fraud Detection",
+        "description": "End-to-end MLOps pipeline with drift detection and automated retraining",
+        "technologies": ["XGBoost", "LightGBM", "Kubeflow", "Feast", "Drift Detection"],
+        "impact": "Target: 60-80% reduction in fraud losses",
+        "status": "planned",
+        "period": "Q2 2025",
+        "type": "Data Science Portfolio"
+      },
+      {
+        "id": "realtime-analytics-flink",
+        "title": "Real-Time Analytics with Apache Flink",
+        "description": "Streaming data platform for real-time business intelligence",
+        "technologies": ["Apache Flink", "Kafka", "ClickHouse", "Apache Superset"],
+        "impact": "Target: Sub-second latency for real-time decisions",
+        "status": "planned",
+        "period": "Q2 2025",
+        "type": "Data Engineering Portfolio"
+      },
+      {
+        "id": "data-lakehouse",
+        "title": "Data Lakehouse with Delta Lake",
+        "description": "Modern data architecture combining Data Lake flexibility with Data Warehouse structure",
+        "technologies": ["Delta Lake", "PySpark", "Apache Airflow", "Great Expectations"],
+        "impact": "Target: 70% cost reduction vs traditional DW",
+        "status": "planned",
+        "period": "Q3 2025",
+        "type": "Data Engineering Portfolio"
+      },
+      {
+        "id": "modern-data-stack",
+        "title": "Modern Data Stack with dbt",
+        "description": "ELT pipeline with SQL transformations as code and automated testing",
+        "technologies": ["dbt", "Snowflake", "Airbyte", "Dagster"],
+        "impact": "Target: 3x faster development, 80% fewer bugs",
+        "status": "planned",
+        "period": "Q3 2025",
+        "type": "Data Engineering Portfolio"
+      }
+    ]
+  }
